@@ -4,4 +4,4 @@ A two part case to protect your Raspberry Pi and MATRIX Creator. It allows you t
 We recommend using an M3 screw for all 7 screw holes.
 
 
-If you do not own a 3D printer then you can use this [3D Hubs](https://www.3dhubs.com) to find a local 3D printer for hire.
+If you do not own a 3D printer then you can use [3D Hubs](https://www.3dhubs.com) to find a local 3D printer for hire.
