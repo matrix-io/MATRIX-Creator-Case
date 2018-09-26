@@ -8,3 +8,7 @@ We recommend using an M3 screw for all 7 screw holes.
 
 
 If you do not own a 3D printer then you can use [3D Hubs](https://www.3dhubs.com) to find a local 3D printer for hire.
+
+For MATRIX Voice there is a similar case made by gapdev user:
+- link: https://www.thingiverse.com/thing:3121664
+- MATRIX Community post: https://community.matrix.one/t/matrix-creator-case-update/342/7
